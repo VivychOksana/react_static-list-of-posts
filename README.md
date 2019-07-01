@@ -1,3 +1,6 @@
+[react_static-list-of-posts](https://vivychoksana.github.io/react_static-list-of-posts/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
